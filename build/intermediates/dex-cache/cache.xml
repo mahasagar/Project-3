@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_675c1962ca5b6484c617b239b684a08554412b97/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_3f88244eb883e7b9a419bd61512f21bd99d60a24/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5fa9914f00d42d34b115aa7fbc85e1b4fd18811b">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a6fa7f59b11885720e766bc4e3e04305c908fe4a/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_dc7eab67e3d5c19de273908e57a5eb5385a7108f/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.diogobernardino/williamchart/2.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.diogobernardino-williamchart-2.2_c405aa052a5d0383f7b79c06b5ccac62b63a0050/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5675f00bd74c2d83ebf4f465e6894b2506b9d8c0">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a0cb7329bd86319be85fb1a541a88a4c8616cbf7/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_9be91edc494f7d2149efc9d1baaea5e9b287ac6e/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_a234553de3a0e6c6399c6aac4d46ba3e0bb7cbf7/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_f7e80b87f5c8726d444a968a86e0d8fa44d8e7ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_6a91a97a3937c4332c95a2968684793a2ff3c7c2/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_a6d3f0ccf3ec37c1607a84c78896e2f64239283c/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_7c2ab1bfe5132bcfeb7a885ee36e9f07a5815e1d/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_fef159146f80cee50fadb04d7c1fd7fdaadcdf33/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.melnykov-floatingactionbutton-1.2.0_7e247ff8ac321d6d7876589dc58ea67f68d33bd9/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/platform/androidSDK/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_0be39216a54fe75439cee32d262f4d19653ff68d/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.5_e1b57a175a3f74c2b76715d57c5a6047b9f66f54/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.afollestad.material-dialogs-core-0.8.5.7_a706d359108f5c9be0079312ec453f0dbe6b1100/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/schematic-annotations-0.6.3_8c6bf50c206dec2b2a48b812c5ac7445fd2bc62d/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.6.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.simonvt.schematic-schematic-0.6.3_6019325f99e5307f895d1e287e2ddca078fc7769/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_1fbfb3e7c7980a1fd61342b1356672ad63151ddd/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_b5ce062263b9b7a1d03912b079b4d1d42ca62b64/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_4fd5bcdebcc7867250fbfcf69c56e6b66b1c1a3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/mahasagar/work/nano_degree/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_106b45cc3f23eaab381024edab64251c9151bf97/classes.dex" />
+    </item>
+
+</items>

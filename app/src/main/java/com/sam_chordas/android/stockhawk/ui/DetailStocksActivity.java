@@ -82,9 +82,12 @@ public class DetailStocksActivity extends AppCompatActivity implements LoaderMan
         mLineSet.setDotsColor(Color.parseColor("#00BFFF"));
         // mLineChart.setAxisBorderValues(minRange - 100, maxRange + 100, 10).setLabelsColor(Color.parseColor("#FF8E9196"));
 
-        mLineChart.addData(mLineSet);
-        mLineChart.show();
+        try {
+            mLineChart.addData(mLineSet);
+            mLineChart.show();
+        }catch(Exception e){
 
+        }
 
     }
 

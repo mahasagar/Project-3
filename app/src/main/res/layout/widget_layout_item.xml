@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="3dp"
         android:gravity="left|center_vertical"
-        tools:text="Symbol"
+        tools:text="@string/str_stock_symbol"
         />
 
     <TextView
@@ -31,7 +31,7 @@
         android:paddingRight="3dp"
         android:paddingEnd="3dp"
         android:paddingStart="3dp"
-        tools:text="100%"
+        tools:text="@string/str_change"
         />
 
 </FrameLayout>

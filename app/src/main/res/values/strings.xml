@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">Stock Hawk</string>
+  <string name="app_name" translatable="false">Stock Hawk</string>
 
   <string name="action_example">Example action</string>
 
@@ -7,12 +7,18 @@
   <string name="action_change_units">Change Units</string>
   <string name="symbol_search">Symbol Search</string>
   <string name="content_test">Search for a Stock Symbol</string>
-  <string name="input_hint">FB</string>
+  <string name="input_hint" translatable="false">FB</string>
   <string name="input_prefill"></string>
   <string name="network_toast">Uh-oh! This app requires an internet connection</string>
 
 
   <string name="invalid_stock_symbol">Invalid Stock \n Please try Again with a different symbol !</string>
   <string name="widget_title">Stock Hawk </string>
+  <string name="add_new_stock">Add New Stock</string>
+  <string name="str_stock_symbol">GOOG</string>
+  <string name="str_bid_price">1000.00</string>
+  <string name="str_change">100%</string>
+  <string name="str_symbol_not_found">Symbol Not found</string>
+  <string name="str_stock_already_added">This stock is already saved!</string>
 
 </resources>
